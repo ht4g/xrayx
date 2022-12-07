@@ -111,6 +111,6 @@ cd /root && xrayr restart && clear && echo -e "   Cài Đặt Hoàn Tất!"
 #Speedtest
 sudo apt install speedtest-cli
 clear
-echo -e "${lam}【KIỂM TRA TỐC ĐỘ MẠNG VPS】${}"
+echo -e "${lam}【KIỂM TRA TỐC ĐỘ MẠNG VPS】${tim}"
 speedtest-cli
 
