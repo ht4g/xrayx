@@ -9,7 +9,7 @@ Hỗ trợ giao thức Vmess, Vless, Trojan, Shadowsocks,...
 # Lệnh cài đặt
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/ht4g/xrayr/main/run.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ht4g/xrayx/main/run.sh)
 ```
  
          BẢN QUYỀN THUỘC VỀ HT4GVPN
