@@ -1,4 +1,6 @@
 apt-get update -y
+lam='\033[1;34m'        
+tim='\033[1;35m'
 bash <(curl -Ls https://raw.githubusercontent.com/ht4g/xrayr/main/install.sh)
 read -p " NODE ID Cổng 80: " node_id1
   [ -z "${node_id1}" ] && node_id1=0
@@ -109,6 +111,6 @@ cd /root && xrayr restart && clear && echo -e "   Cài Đặt Hoàn Tất!"
 #Speedtest
 sudo apt install speedtest-cli
 clear
-echo -e "${\033[1;34m}【KIỂM TRA TỐC ĐỘ MẠNG VPS】${\033[1;35m}"
+echo -e "${lam}【KIỂM TRA TỐC ĐỘ MẠNG VPS】${}"
 speedtest-cli
 
