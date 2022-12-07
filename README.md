@@ -1,6 +1,6 @@
 ◄▬▬▬▬𝐂𝐎𝐏𝐘𝐑𝐈𝐆𝐇𝐓©𝐇𝐓𝟒𝐆𝐕𝐏𝐍▬▬▬▬►
 # Web
-Website bán 4g giá siêu rẻ, uy tín, chất lượng cao: https://ht4gvpn.pw
+Website bán 4g giá siêu rẻ, uy tín, chất lượng: https://ht4gvpn.pw
 # XRayX
 XrayX hỗ trợ nhiều panel và hệ điều hành (ubuntu, debian, centOS,...)
 <br>
