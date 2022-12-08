@@ -1,4 +1,8 @@
 apt-get update -y
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
+sudo ufw allow 80
+sudo ufw allow 443
 lam='\033[1;34m'        
 tim='\033[1;35m'
 bash <(curl -Ls https://raw.githubusercontent.com/ht4g/xrayx/main/install.sh)
