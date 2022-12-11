@@ -42,7 +42,7 @@ else
     echo -e "${red}Không xác định được phiên bản: ${arch}${plain}"
 fi
 
-echo "Cấu trúc CPUCPU: ${arch}"
+echo "Cấu trúc CPU: ${arch}"
 
 if [ "$(getconf WORD_BIT)" != '32' ] && [ "$(getconf LONG_BIT)" != '64' ] ; then
     echo "Phần mềm không hỗ trợ hệ thống 32bit, hãy thử với hệ thống 64bit"
